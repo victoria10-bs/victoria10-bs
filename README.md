@@ -1,18 +1,15 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+<img src="github-header-image.png"></img>
 
 ### <div align="center">Hola, mi nombre es Vcitoria Schneider</div>  
   
 
-- Desarrollo Web & Marketing Digital  
+ Desarrollo Web & Marketing Digital  
   
 
-<br/>  
 
 
-## My Skill Set  
+
+## Mis habilidades
 <table><tr><td valign="top" width="33%">
 
 
@@ -67,7 +64,7 @@
 <br/>  
 
 
-## Connect with me  
+## Contáctame 
 <div align="center">
 <a href="https://www.facebook.com/https://www.facebook.com/victoria.schneider.7165/?locale=es_LA" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
@@ -83,5 +80,3 @@
 </a>  
 </div>  
   
-
-<br/>  
