@@ -1,9 +1,9 @@
 <img src="github-header-image.png"></img>
 
-### <div align="center">Hola, mi nombre es Vcitoria Schneider</div>  
+# <div align="center">Hola, mi nombre es Vcitoria Schneider</div>  
   
 
- Desarrollo Web & Marketing Digital  
+### <div align="center">Desarrollo Web & Marketing Digital  </div>
   
 
 
