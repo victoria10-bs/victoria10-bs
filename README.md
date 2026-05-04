@@ -21,11 +21,9 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 32px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 32px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  -->
 <a href="https://github.com/" target="_blank"><img style="margin: 32px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="[https://github.com/](https://es.react.dev/)" target="_blank"><img style="margin: 32px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
    <a href="https://reactjs.org/" target="_blank"><img style="margin: 32px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 32px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 32px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-   <a href="https://github.com/" target="_blank"><img style="margin: 32px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 32px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>    
    <a href="https://mui.com/" target="_blank"><img style="margin: 32px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
 </div>
 
