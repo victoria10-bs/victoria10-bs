@@ -1,4 +1,4 @@
-<img src="github-header-image.png"></img>
+<img src="header2.png"></img>
 
 # <div align="center">Hola, mi nombre es Vcitoria Schneider</div>  
   
