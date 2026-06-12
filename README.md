@@ -3,7 +3,7 @@
 # <div align="center">Hola, mi nombre es Vcitoria Schneider</div>  
   
 
-### <div align="center">Desarrollo Web & Marketing Digital  </div>
+### <div align="center">Diseñadora Front-end </div>
   
 
 
